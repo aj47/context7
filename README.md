@@ -14,7 +14,7 @@ Context7 is a robust platform designed to create, manage, and leverage context l
 ✅ **Precise Context:** Extracts clean, relevant snippets from up-to-date documentation  
 ✅ **Focused Content:** Includes only code and descriptions—no fluff or filler  
 ✅ **Free Tier:** Up to 50 queries per day for personal use at no cost  
-✅ **Broad Compatibility:** Works seamlessly with MCP servers (e.g., Cursor, Windsurf)  
+✅ **Broad Compatibility:** Works seamlessly with MCP clients (e.g., Cursor, Windsurf)  
 ✅ **Fast Integration:** Generate library-specific context in minutes and embed Context7 links directly into your documentation
 
 ---
